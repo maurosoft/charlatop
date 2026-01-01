@@ -228,7 +228,7 @@ export const PromptWizard: React.FC = () => {
         <ScrollReveal delay={300} className="mt-12 text-center">
           <p className="text-gray-500 text-sm italic">
             <i className="fas fa-info-circle mr-2 text-purple-500/50"></i>
-            Una volta generato, copia il testo e incollalo in <strong>Settings > Chatbot > System Instructions</strong> della tua dashboard Charla.
+            Una volta generato, copia il testo e incollalo in <strong>Settings &gt; Chatbot &gt; System Instructions</strong> della tua dashboard Charla.
           </p>
         </ScrollReveal>
       </div>
